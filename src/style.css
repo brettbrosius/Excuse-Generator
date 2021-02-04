@@ -1,1 +1,15 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+@import url('https://fonts.googleapis.com/css2?family=Walter+Turncoat&display=swap');
+
+.chalkboard {
+    border: #B78240 solid 10px;
+    border-radius: 10px;
+    color: white;
+    background: url(https://raw.github.com/mmoustafa/Chalkboard/master/img/bg.png);
+    font-family: 'Walter Turncoat', cursive;
+    margin-top: 200px;
+}
+body {
+    background-image: url(https://www.northeastern.edu/graduate/blog/wp-content/uploads/2019/06/Equity-in-the-Classroom-FACEBOOK.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
